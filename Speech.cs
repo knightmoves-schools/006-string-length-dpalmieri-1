@@ -5,8 +5,8 @@ public class Speech
 
     public string PrintLengthAndTwentySecondLetter(){
         //Add your code here
-        public char TwentySecondLetter = Quote[21];
         return "";
     }
 }
+
 
