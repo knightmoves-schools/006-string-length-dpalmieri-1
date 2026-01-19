@@ -5,10 +5,10 @@ public class Speech
 
     public string PrintLengthAndTwentySecondLetter(){
         //Add your code here
-        public static int QuoteLength = Quote.Length;
-        return Quote[21];
+        return Quote[22];
     }
 }
+
 
 
 
