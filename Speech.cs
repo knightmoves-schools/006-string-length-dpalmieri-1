@@ -6,10 +6,11 @@ public class Speech
     public string PrintLengthAndTwentySecondLetter(){
         //Add your code here
         public string QuoteLength = Quote.length;
-        public char TwentySecondLetter = quote[21];
-        return "";
+        public char TwentySecondLetter = Quote[21];
+        return (QuoteLength, TwentySecondLetter);
     }
 }
+
 
 
 
