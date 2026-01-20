@@ -7,9 +7,10 @@ public class Speech
         //Add your code here
         public string QuoteLength = Quote.length;
         public char TwentySecondLetter = Quote[21];
-        return "QuoteLength " + Quote[21];
+        return;
     }
 }
+
 
 
 
