@@ -7,9 +7,10 @@ public class Speech
         //Add your code here
         public string QuoteLength = Quote.Length;
         public char TwentySecondLetter = Quote[21];
-        return "" + Quote.Length;
+        return "" + Quote.Length + TwentySecondLetter;
     }
 }
+
 
 
 
